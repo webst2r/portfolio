@@ -27,7 +27,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'System ttt for recommending parcel delivery circuits',
+    title: 'System for recommending parcel delivery circuits',
     github: 'https://github.com/webst2r/IA-GreenDistribution',
     demo:'',
     details:''
