@@ -13,35 +13,40 @@ const data = [
     image: IMG1,
     title: 'Personal Portfolio v1.0 (React JS)',
     github: '',
-    demo:''
+    demo:'',
+    details:''
   },
   {
     id: 2,
     image: IMG2,
     title: 'System for monitoring energy consumption of housing in a community',
     github: 'https://github.com/webst2r/SmartEnergySystem',
-    demo:''
+    demo:'',
+    details:''
   },
   {
     id: 3,
     image: IMG3,
-    title: 'System for recommending parcel delivery circuits',
+    title: 'System ttt for recommending parcel delivery circuits',
     github: 'https://github.com/webst2r/IA-GreenDistribution',
-    demo:''
+    demo:'',
+    details:''
   },
   {
     id: 4,
     image: IMG4,
     title: 'Management System for Electronic Equipment Repair Centers ',
     github: 'https://github.com/webst2r/DSS-LojaDeReparacoes',
-    demo:''
+    demo:'',
+    details:''
   },
   {
     id: 5,
     image: IMG5,
     title: 'Flight Booking Platform',
     github: 'https://github.com/webst2r/SD-FlightBooking',
-    demo:''
+    demo:'',
+    details:''
   }
 ]
 
