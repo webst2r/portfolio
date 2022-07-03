@@ -13,7 +13,6 @@ const data = [
     image: IMG1,
     title: 'Personal Portfolio v1.0 (React JS)',
     github: '',
-    demo:'',
     details:''
   },
   {
@@ -21,7 +20,6 @@ const data = [
     image: IMG2,
     title: 'System for monitoring energy consumption of housing in a community',
     github: 'https://github.com/webst2r/SmartEnergySystem',
-    demo:'',
     details:''
   },
   {
@@ -29,7 +27,6 @@ const data = [
     image: IMG3,
     title: 'System for recommending parcel delivery circuits',
     github: 'https://github.com/webst2r/IA-GreenDistribution',
-    demo:'',
     details:''
   },
   {
@@ -37,7 +34,6 @@ const data = [
     image: IMG4,
     title: 'Management System for Electronic Equipment Repair Centers ',
     github: 'https://github.com/webst2r/DSS-LojaDeReparacoes',
-    demo:'',
     details:''
   },
   {
@@ -45,7 +41,6 @@ const data = [
     image: IMG5,
     title: 'Flight Booking Platform',
     github: 'https://github.com/webst2r/SD-FlightBooking',
-    demo:'',
     details:''
   }
 ]
@@ -59,7 +54,7 @@ const Portfolio = () => {
 
       <div className="container portfolio__container">
         {
-          data.map(({id, image, title, github, demo}) => {
+          data.map(({id, image, title, github, details}) => {
             return (
               <article key={id} className='portfolio__item'>
               <div className='portfolio__item-image'>
@@ -68,7 +63,7 @@ const Portfolio = () => {
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
                 <a href={github} className='btn'>GitHub</a>
-                <a href={demo} className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+                <a href={details} className='btn btn-primary' target='_blank' rel="noreferrer">Details</a>
               </div>
             </article>     
             )
