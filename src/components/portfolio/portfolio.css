@@ -6,7 +6,7 @@
 
 .portfolio__item {
     background: var(--color-bg-variant);
-    padding: 1.3rem;
+    padding: 1.2rem;
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
@@ -23,7 +23,7 @@
 }
 
 .portfolio__item h3 {
-    margin: 1.2rem 0 2rem;
+    margin: 1.2rem 0 0.5rem;
 }
 
 .portfolio__item-cta {
@@ -31,6 +31,36 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
+
+.portfolio__item-tech {
+    width: max-content;
+    display: flex;
+    gap: 2rem;
+    background: rgb(43, 43, 43);
+    color: rgb(208, 207, 207);
+    padding: 0.25rem 0.6rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    margin-bottom: 3rem;
+}
+
+
+.btn-grad {
+    background: rgb(106,50,158);
+    background: linear-gradient(90deg, rgba(106,50,158,1) 0%, rgba(35,35,36,0.9780287114845938) 52%, rgba(0,108,255,0.5102415966386555) 97%);    
+    opacity: 80%;
+}
+
+.btn-grad:hover {
+    background-position: right center;
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+ 
+
 
 /* ========== MEDIA QUERIES (medium devices - tablets) ==========*/
 @media screen and (max-width: 1024px) {
