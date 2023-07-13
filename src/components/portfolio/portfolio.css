@@ -10,6 +10,8 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
+    display: flex;
+    flex-direction: column; 
 }
 
 .portfolio__item:hover {
@@ -22,6 +24,8 @@
     overflow: hidden;
 }
 
+
+
 .portfolio__item h3 {
     margin: 1.2rem 0 0.5rem;
 }
@@ -29,19 +33,29 @@
 .portfolio__item-cta {
     display: flex;
     gap: 1rem;
-    margin-bottom: 1rem;
+    margin-top: auto;
 }
 
 .portfolio__item-tech {
+    border: 1px solid;
     width: max-content;
     display: flex;
-    gap: 2rem;
-    background: rgb(43, 43, 43);
+    gap: 1rem;
     color: rgb(208, 207, 207);
     padding: 0.25rem 0.6rem;
     border-radius: 0.4rem;
     cursor: pointer;
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
+}
+
+.portfolio__tech-icon {
+    margin-top: 5px;
+    color: var(--color-primary);
+}
+
+.portfolio__tech_wrapper {
+    display: flex;
+    gap: 1rem;
 }
 
 
@@ -56,8 +70,6 @@
     color: #fff;
     text-decoration: none;
 }
-
-
 
  
 

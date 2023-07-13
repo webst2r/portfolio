@@ -30,7 +30,7 @@ const About = () => {
             <article className='about__card'>
               <RiFocus2Fill className='about__icon'/>
               <h5>Focus</h5>
-              <small>Web & Blockchain development </small>
+              <small>Web & Backend development </small>
             </article>
 
             <article className='about__card'>
@@ -42,7 +42,7 @@ const About = () => {
           </div>
 
           <p>
-            I'm a Software Developer located in Portugal. I have a passion for Blockchain, Crypto and creating dynamic user experiences. Interested in the entire blockchain & web3 spectrum and working on ambitious projects with positive people.
+            I'm a Software Engineer located in Portugal. Dedicated to delivering robust and scalable solutions and actively contribute to the development of innovative software applications. Interested in the entire backend spectrum and working on ambitious projects with positive people.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
