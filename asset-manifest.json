@@ -1,23 +1,22 @@
 {
-  "files": {
-    "main.css": "/portfolio/static/css/main.fb6c05f6.css",
-    "main.js": "/portfolio/static/js/main.b6ce064a.js",
-    "static/media/portfolio6.png": "/portfolio/static/media/portfolio6.245cba9abf4f75711a02.png",
-    "static/media/portfolio1.png": "/portfolio/static/media/portfolio1.c57800796bafec9d1c91.png",
-    "static/media/portfolio5.jpg": "/portfolio/static/media/portfolio5.3648956f6985555c0fb6.jpg",
-    "static/media/portfolio2.png": "/portfolio/static/media/portfolio2.75eed6bfc933a00feb18.png",
-    "static/media/portfolio3.png": "/portfolio/static/media/portfolio3.c82d0cfc9779dabf6b50.png",
-    "static/media/banner-bg.png": "/portfolio/static/media/banner-bg.cc1273af450504afe755.png",
-    "static/media/header-img.svg": "/portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
-    "static/media/logo.png": "/portfolio/static/media/logo.4bea4a077b85f814c3f0.png",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.93c818c7d326c02ed33e.pdf",
-    "static/media/portfolio4.png": "/portfolio/static/media/portfolio4.ae3bbb64e723a820ae28.png",
-    "index.html": "/portfolio/index.html",
-    "main.fb6c05f6.css.map": "/portfolio/static/css/main.fb6c05f6.css.map",
-    "main.b6ce064a.js.map": "/portfolio/static/js/main.b6ce064a.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.fb6c05f6.css",
-    "static/js/main.b6ce064a.js"
-  ]
+  "main.css": "/portfolio/static/css/main.f56458ce.chunk.css",
+  "main.js": "/portfolio/static/js/main.07613ac6.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.07613ac6.chunk.js.map",
+  "static/js/1.c9eb906c.chunk.js": "/portfolio/static/js/1.c9eb906c.chunk.js",
+  "static/js/1.c9eb906c.chunk.js.map": "/portfolio/static/js/1.c9eb906c.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
+  "static/media/cv.pdf": "/portfolio/static/media/cv.8b88829c.pdf",
+  "static/media/header-img.svg": "/portfolio/static/media/header-img.bfe6d1a6.svg",
+  "static/media/logo.png": "/portfolio/static/media/logo.89b78b39.png",
+  "static/media/portfolio1.png": "/portfolio/static/media/portfolio1.930633b6.png",
+  "static/media/portfolio2.png": "/portfolio/static/media/portfolio2.085718bb.png",
+  "static/media/portfolio3.png": "/portfolio/static/media/portfolio3.349b0d36.png",
+  "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.da212160.jpg",
+  "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.7282d42f.png",
+  "static/media/header.css": "/portfolio/static/media/banner-bg.5f3ca497.png",
+  "static/css/main.f56458ce.chunk.css.map": "/portfolio/static/css/main.f56458ce.chunk.css.map",
+  "index.html": "/portfolio/index.html",
+  "precache-manifest.d4a1506a686d23ff45cb147280929b57.js": "/portfolio/precache-manifest.d4a1506a686d23ff45cb147280929b57.js",
+  "service-worker.js": "/portfolio/service-worker.js"
 }
